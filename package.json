@@ -13,7 +13,8 @@
     "@mui/lab": "^5.0.0-alpha.105",
     "@mui/material": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-mermaid2": "^0.1.4"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "latest",
